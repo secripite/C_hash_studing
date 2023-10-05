@@ -1,0 +1,14 @@
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll

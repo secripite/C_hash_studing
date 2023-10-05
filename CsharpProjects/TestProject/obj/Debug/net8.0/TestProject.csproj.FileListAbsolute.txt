@@ -12,3 +12,4 @@ C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\refi
 C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\vsc_codes\vsc_codes_C#_study\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
